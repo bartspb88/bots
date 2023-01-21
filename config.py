@@ -1,7 +1,7 @@
 class LoginData:
-    TOKEN = '5935892930:AAFQMh_Y4HMYg7jLTqFlpV36oNvK0G2OlMU'
-    CHAT_ID = 'https://t.me/AVScriptsBot'
-    WEATHER_TOKEN = 'e5106b7071a99002bc4c37286958189f'
+    TOKEN = 
+    CHAT_ID = 
+    WEATHER_TOKEN = 
 
 
 class Urls:
